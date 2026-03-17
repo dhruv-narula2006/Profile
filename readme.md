@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruv%20Narula&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20%7C%20Computer%20Science%20(AI andML)%&descAlignY=52&descSize=18&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruv%20Narula&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20%7C%20Computer%20Science%20(AI%20and%20ML)%&descAlignY=52&descSize=18&descColor=ffffff" />
 </div>
 
 <p align="center">
@@ -169,7 +169,6 @@ https://github.com/dhruv-narula2006/Portfolio_Website
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ DevCreate (BuildFest Project)  
 ### 🌍 Carbon 360  
 **Carbon Footprint Tracking Web Application (Hackathon Project)**
 
