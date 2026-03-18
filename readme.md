@@ -214,21 +214,25 @@ int main() {
 }
 ```
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dhruv-narula-959653334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Narula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:naruladhruv2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/DHRUVNARULA2006/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-DHRUVNARULA2006-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/dhruv-narula2006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-dhruv--narula2006-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-narula-959653334/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:naruladhruv2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/DHRUVNARULA2006/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/dhruv-narula2006">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Lets+Connect+and+Build+Something+Awesome!;Open+to+Collaborations+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1" />
 </p>
 
 <p align="center">
