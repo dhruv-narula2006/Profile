@@ -63,10 +63,10 @@ I’m currently focused on strengthening my foundations in C, C++, Python and im
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
         <br>VS Code
       </td>
-      <td align="center" width="96">
+      <!-- <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Notebook"/>
         <br>Jupyter Notebook
-      </td>
+      </td> -->
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
         width="65" height="65" alt="Google Colab"/>
