@@ -167,27 +167,55 @@ A responsive and modern **personal portfolio website** built to showcase project
 https://github.com/dhruv-narula2006/Portfolio_Website
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🌍 Carbon 360  
 **Carbon Footprint Tracking Web Application (Hackathon Project)**
 
-A web-based application built during a **hackathon** to help users track and analyze their carbon footprint, promoting awareness of sustainable habits and environmental impact.
+A web-based application built during a **hackathon** to help users track and analyze their carbon footprint.
 
 - Developed under strict hackathon time constraints  
-- Captures and processes **user activity inputs** to estimate carbon emissions  
-- Implements logic to map daily actions (e.g., transport, energy use) to emission values  
-- Provides actionable insights to encourage eco-friendly decisions  
-- Clean and intuitive frontend for seamless user interaction  
+- Processes user activity inputs to estimate emissions  
+- Provides actionable sustainability insights  
+- Clean and intuitive frontend  
 
 **Tech:** `JavaScript` `Web Development` `Frontend`
 
 🔗 **Repository:**  
 https://github.com/dhruv-narula2006/carbon-360
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 School Management System  
+**Full-Stack School Management Web Application**
+
+A modern and responsive **school management system** built using Flask to improve communication between school and parents.
+
+- Online registration system with secure data storage  
+- Authentication system with personalized dashboards  
+- Dynamic event calendar with filtering  
+- Secure document upload (PDF, JPG, PNG)  
+- Admin panel for managing student records  
+- Contact section with embedded map  
+- Fully responsive UI with clean design  
+
+**Tech:** `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `Flask-Login` `SQLAlchemy`
+
+🔗 **Repository:**  
+https://github.com/dhruv-narula2006/School-Website-sample
+
+</td>
+
+<td width="50%" valign="top">
+<!-- You can add future project here -->
 </td>
 </tr>
 </table>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
